@@ -1,0 +1,1 @@
+exports.bold = (text) => `\*\*${text}\*\*`

@@ -1,0 +1,32 @@
+{
+    "name": "steve-jobs",
+    "version": "1.0.0",
+    "description": "A cool dev bot for Discord",
+    "main": "main.js",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MuhammedBeraKoc/steve-jobs.git"
+    },
+    "keywords": [
+        "discord",
+        "dev",
+        "bot"
+    ],
+    "author": "Muhammed Bera KOÇ",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/MuhammedBeraKoc/steve-jobs/issues"
+    },
+    "homepage": "https://github.com/MuhammedBeraKoc/steve-jobs#readme",
+    "dependencies": {
+        "discord.js": "^12.4.1",
+        "dotenv": "^8.2.0"
+    },
+    "devDependencies": {
+        "@berakocc/commitify": "^1.0.1",
+        "prettier": "^2.1.2"
+    }
+}
